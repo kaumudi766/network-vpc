@@ -1,6 +1,6 @@
 terraform {
   backend "remote" {
-    organization = "nitheeshp"
+    organization = "kaumudilimited"
 
     workspaces {
       name = "development"
